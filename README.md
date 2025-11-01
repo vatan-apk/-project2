@@ -1,4 +1,4 @@
 # New project
 this project was created from local system.
 
-created by vatan pathak
+created by vatan pathak.
